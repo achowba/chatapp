@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat app with socket io and node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.1.2"
+  },
+  "keywords": [
+    "chat",
+    "nodejs",
+    "node",
+    "js",
+    "socket",
+    "io",
+    "socket"
+  ],
+  "author": "achowba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
